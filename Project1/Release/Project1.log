@@ -1,0 +1,8 @@
+﻿  hook.cpp
+E:\Works\TencentMini\Project1\Project1\hook.cpp(179,32): warning C4302:  “类型强制转换”: 从“LPSTR”到“WORD”截断
+E:\Works\TencentMini\Project1\Project1\hook.cpp(180,28): warning C4302:  “类型强制转换”: 从“LPSTR”到“WORD”截断
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Project1.vcxproj -> E:\Works\TencentMini\Project1\Release\Project1.exe
